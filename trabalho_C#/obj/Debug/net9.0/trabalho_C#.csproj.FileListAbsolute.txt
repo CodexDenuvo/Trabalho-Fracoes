@@ -1,0 +1,14 @@
+C:\Users\leona\trabalho_C#\bin\Debug\net9.0\trabalho_C#.exe
+C:\Users\leona\trabalho_C#\bin\Debug\net9.0\trabalho_C#.deps.json
+C:\Users\leona\trabalho_C#\bin\Debug\net9.0\trabalho_C#.runtimeconfig.json
+C:\Users\leona\trabalho_C#\bin\Debug\net9.0\trabalho_C#.dll
+C:\Users\leona\trabalho_C#\bin\Debug\net9.0\trabalho_C#.pdb
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.AssemblyInfoInputs.cache
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.AssemblyInfo.cs
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.csproj.CoreCompileInputs.cache
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.dll
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\refint\trabalho_C#.dll
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.pdb
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\trabalho_C#.genruntimeconfig.cache
+C:\Users\leona\trabalho_C#\obj\Debug\net9.0\ref\trabalho_C#.dll
